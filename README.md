@@ -1,6 +1,7 @@
 # i AM Laura N. Sotomayor 🤠
 🌏Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
-## Contact:@@ text in purple [REDACTED]  (and bold)@@
+## Contact:
+! text in orange
 ∆ <a href="mailto:laura.sotomayor@utas.edu.au">laura.sotomayor@utas.edu.au</a>
 <!--
 **LNSOTOM/LNSOTOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
