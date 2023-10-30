@@ -5,7 +5,7 @@
 ```diff
 👩‍💻 Researching on deep learning-based computer vision applications 
   --> for remote sensing-based ecosystem monitoring.
-🛰️ Drone platforms (RGB |LiDAR |Multispectral |Hyperspectral) for collecting high-resolution imagery data
+🛰️ Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery data
 🍃 Precise analysis of ecological,biophysical and biochemical variables
 ```
 ### Background
