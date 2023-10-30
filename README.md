@@ -4,7 +4,7 @@
 🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. <br/> 
 ```diff
 👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring.
-🇪🇦 🇲🇽 From Spain/Mexico
+🇪🇦 From Spain 🐂 and 🇲🇽 Mexico 🦅
 ```
 
 ## Contact:
