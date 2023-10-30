@@ -1,5 +1,5 @@
 # i AM Laura N. Sotomayor 🤠
-## 🌏 Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
+## 🌏 [Geospatial Computer Scientist & Remote Sensing in Ecosystem Research]
 ```diff
 @@ text in purple (and bold)@@
 ```
