@@ -2,7 +2,7 @@
 🌏Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
 
 I am a PhD student at the University of Tasmania (UTAS) in Australia.
-👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring
+👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring <br />
 🌍 From Spain/Mexico
 ## Contact:
 ∆ <a href="mailto:laura.sotomayor@utas.edu.au">laura.sotomayor@utas.edu.au</a>
