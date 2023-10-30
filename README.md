@@ -6,7 +6,7 @@
 👩🏻‍💻 Researching on Deep Learning-based Computer Vision Applications 
   --> for Remote Sensing-based Ecosystem Monitoring.
 🛰️ Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery data.
-🍃 Precise analysis of ecological,biophysical and biochemical variables.
+🍃 Precise analysis of Ecological,Biophysical and Biochemical variables.
 ```
 ### Background
 🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
