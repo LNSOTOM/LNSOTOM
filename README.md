@@ -1,4 +1,4 @@
-### i AM Laura N. Sotomayor 🤠
+## i AM Laura N. Sotomayor 🤠
 
 🌏Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
 
