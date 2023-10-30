@@ -6,10 +6,11 @@
 👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring.
 🛰️ Utilisation of drone platforms for collecting high-resolution data
 🌱 Precise analysis of ecological,biophysical and biochemical variables
-🇪🇦 From Spain 🐂 | 🇲🇽 Mexico 🦅
 ```
+### Background
+🇪🇦 From Spain 🐂 | 🇲🇽 Mexico 🦅
 
-## Contact:
+### Contact:
 ∆ <a href="mailto:laura.sotomayor@utas.edu.au">laura.sotomayor@utas.edu.au</a>
 <!--
 **LNSOTOM/LNSOTOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
