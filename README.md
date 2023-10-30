@@ -1,6 +1,6 @@
-### i AM Laura N. Sotomayor 🫰
+### i AM Laura N. Sotomayor 🤠
 
-Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
+🌏Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
 <!--
 **LNSOTOM/LNSOTOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
