@@ -5,7 +5,7 @@
 ```diff
 👩‍💻 Researching on deep learning-based computer vision applications 
   --> for remote sensing-based ecosystem monitoring.
-🛰️ Utilisation of drone platforms for collecting high-resolution data
+🛰️ Drone platforms for collecting high-resolution imagery data
 🍃 Precise analysis of ecological,biophysical and biochemical variables
 ```
 ### Background
