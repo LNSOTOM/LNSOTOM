@@ -9,7 +9,7 @@
 🍃 Precise analysis of ecological,biophysical and biochemical variables.
 ```
 ### Background
-🇦🇺 Based in Hobart, Tasmania, Australia 🦘
+🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
 🇪🇦 From Spain 🐂 | 🇲🇽 Mexico 🦅
 
 ### Contact:
