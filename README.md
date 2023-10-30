@@ -1,9 +1,9 @@
 # i AM Laura N. Sotomayor 🤠
 ## 🌏 Geospatial Computer Scientist & Remote Sensing in Ecosystem Research
 
-## PhD student at the University of Tasmania (UTAS) in Australia. <br/> 
+### PhD student at the University of Tasmania (UTAS) in Australia. <br/> 
 ```diff
-👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring <br/>
+👩‍💻 Researching on deep learning-based computer vision applications for remote sensing-based ecosystem monitoring.
 🇪🇦 🇲🇽 From Spain/Mexico
 ```
 
