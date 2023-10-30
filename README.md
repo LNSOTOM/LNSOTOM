@@ -1,5 +1,5 @@
 # i AM Laura N. Sotomayor 🤠
-## 🌏 Geospatial Computer Scientist & Remote Sensing in EcosystemS
+## 🌏 Geospatial Computer Scientist & Remote Sensing in Ecosystems
 
 🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. <br/> 
 ```diff
