@@ -6,7 +6,7 @@
 👩🏻‍💻 Researching on Deep Learning-based Computer Vision Applications 
  --> for Remote Sensing-based Ecosystem Monitoring.
 🛰️ Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery data.
-🍃 Achieve precise representation of ecosystem
+🍃 Achieve precise representation of ecosystem:
      - composition (i.e., ecological variables), 
      - structure (i.e., biophysical variables), and 
      - function (i.e., biochemical variables) features 
