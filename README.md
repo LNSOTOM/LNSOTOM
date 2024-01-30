@@ -10,7 +10,7 @@
 ```
 ### Background
 🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
-🇪🇦 From Spain 🐂 | 🇲🇽 Mexico 🦅 <br/> 
+🇦🇺 From Australia🦘 | 🇪🇦 Spain 🐂 | 🇲🇽 Mexico 🦅 <br/> 
 💻 Geospatial Software Developer
 
 ### Contact:
