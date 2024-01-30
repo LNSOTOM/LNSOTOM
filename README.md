@@ -10,8 +10,8 @@
      - Composition (i.e., ecological variables), 
      - Structure (i.e., biophysical variables), and 
      - Function (i.e., biochemical variables) features 
- --> by integrating advanced remote sensing technologies and applying state-of-art deep learning methods,
-      with a particular emphasis on diverse semi-arid terrestrial ecosystems in Australia.
+ --> by integrating advanced Remote Sensing technologies and applying state-of-art Deep Learning methods,
+      with a particular emphasis on diverse Semi-Arid Terrestrial Ecosystems in Australia.
 ```
 ### Background
 🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
