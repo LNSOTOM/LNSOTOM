@@ -10,7 +10,7 @@
      - Composition (i.e., ecological variables), 
      - Structure (i.e., biophysical variables), and 
      - Function (i.e., biochemical variables) features 
- --> by integrating advanced Remote Sensing technologies and applying state-of-art Deep Learning methods,
+ --> by integrating Advanced Remote Sensing Technologies and applying State-of-Art Deep Learning Methods,
       with a particular emphasis on diverse Semi-Arid Terrestrial Ecosystems in Australia.
 ```
 ### Background
