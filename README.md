@@ -4,12 +4,12 @@
 🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. 
 ```diff
 👩🏻‍💻 Researching on Deep Learning-based Computer Vision Applications 
- --> for Remote Sensing-based Ecosystem Monitoring.
+ --> for Remote Sensing-based Ecosystem Mapping and Monitoring.
 🛰️ Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery data.
 🍃 Achieve precise representation of Ecosystem:
-     - Composition (i.e., ecological variables), 
-     - Structure (i.e., biophysical variables), and 
-     - Function (i.e., biochemical variables) features 
+     - Composition (ecological variables, e.g., fractional vegetation cover), 
+     - Structure (3D biophysical variables, e.g., strata and volumes), and 
+     - Function (biochemical variables, e.g., senescence traits) features 
  --> by integrating Advanced Remote Sensing Technologies and applying State-of-Art Deep Learning Methods,
       with a particular emphasis on diverse Semi-Arid Terrestrial Ecosystems in Australia.
 ```
