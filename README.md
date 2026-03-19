@@ -16,7 +16,7 @@
 ### Background
 🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
 🇦🇺 From Australia🦘 | 🇪🇦 Spain 🐂 | 🇲🇽 Mexico 🦅 <br/> 
-💻 Geospatial Software Developer
+💻 Geospatial AI Researcher Enginneer
 
 ### Contact:
 ∆ <a href="mailto:laura.sotomayor@utas.edu.au">laura.sotomayor@utas.edu.au</a>
