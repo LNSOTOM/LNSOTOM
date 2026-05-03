@@ -10,8 +10,7 @@
      - Composition: vegetation cover, e.g., fractional vegetation cover, 
      - Structure: 3D vegetation, e.g., strata and growth forms/volumes, and 
      - Function: functional condition, e.g., senescence-related spectral indicators.
- --> by integrating Advanced Remote Sensing Technologies with state-of-art Deep Learning Methods,
-      with a particular emphasis on diverse Semi-Arid Terrestrial Ecosystems in Australia.
+ --> by integrating Advanced Remote Sensing Technologies with state-of-art Deep Learning Methods.
 ```
 ### Background
 🇦🇺 Based in Hobart, Tasmania, Australia 🦘 <br/> 
