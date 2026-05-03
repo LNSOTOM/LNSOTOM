@@ -1,16 +1,16 @@
 # i AM Laura N. Sotomayor 🤠
-## 🌏 Geospatial Computer Scientist & Remote Sensing in Ecosystems
+## 🌏 Geospatial AI Researcher / Engineer | Remote Sensing for Ecosystem Monitoring
 
 🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. 
 ```diff
 👩🏻‍💻 Researching on Deep Learning-based Computer Vision Applications 
  --> for Remote Sensing-based Ecosystem Mapping and Monitoring.
-🛰️ Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery data.
-🍃 Achieve precise representation of Ecosystem:
-     - Composition (ecological variables, e.g., fractional vegetation cover), 
-     - Structure (3D biophysical variables, e.g., strata and volumes), and 
-     - Function (biochemical variables, e.g., senescence traits) features 
- --> by integrating Advanced Remote Sensing Technologies and applying State-of-Art Deep Learning Methods,
+🛰️ Using Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery and point cloud data.
+🍃 Working toward precise ecosystem representation through:
+     - Composition: vegetation cover, e.g., fractional vegetation cover, 
+     - Structure: 3D vegetation, e.g., strata and growth forms/volumes, and 
+     - Function: functional condition, e.g., senescence-related spectral indicators.
+ --> by integrating Advanced Remote Sensing Technologies with state-of-art Deep Learning Methods,
       with a particular emphasis on diverse Semi-Arid Terrestrial Ecosystems in Australia.
 ```
 ### Background
