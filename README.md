@@ -3,7 +3,7 @@
 
 🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. 
 ```diff
-👩🏻‍💻 Researching on Deep Learning-based Computer Vision Applications 
+👩🏻‍💻 Researching Deep Learning-based Computer Vision Applications 
  --> for Remote Sensing-based Ecosystem Mapping and Monitoring.
 🛰️ Using Drone platforms (RGB | LiDAR | Multispectral | Hyperspectral) for collecting high-resolution imagery and point cloud data.
 🍃 Working toward precise ecosystem representation through:
