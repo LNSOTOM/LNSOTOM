@@ -1,7 +1,7 @@
 # i AM Laura N. Sotomayor 🤠
 ## 🌏 Geomatics Engineer/AI Researcher | Remote Sensing for Ecosystem Monitoring
 
-🛸 PhD student in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. 
+🛸 PhD in Geomatic Engineering at the University of Tasmania (UTAS) in Australia. 
 ```diff
 👩🏻‍💻 Researching Deep Learning-based Computer Vision Applications 
  --> for Remote Sensing-based Ecosystem Mapping and Monitoring.
