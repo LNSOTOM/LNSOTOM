@@ -16,7 +16,7 @@
 🇦🇺 Based in Brisbane, Queensland, Australia 🦘 <br/> 
 🇦🇺 Studied in Hobart, Tasmania, Australia🌲 <br/> 
 🇦🇺 From Australia🦘 | 🇪🇦 Spain 🐂 | 🇲🇽 Mexico 🦅 <br/> 
-💻 Research Platform Fellow (Geospatial Data Scientist)
+💻 Research Platform Fellow (Geospatial Data Scientist) at University of Queensland (UQ)
 
 ### Contact:
 ∆ <a href="mailto:l.sotomayorramirez@uq.edu.au">l.sotomayorramirez@uq.edu.au</a>
