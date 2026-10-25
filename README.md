@@ -21,7 +21,7 @@
 ### Contact:
 ∆ <a href="mailto:l.sotomayorramirez@uq.edu.au">l.sotomayorramirez@uq.edu.au</a>
 
-∆ <a href="https://www.researchgate.net/profile/Laura-Sotomayor">Laura N. Sotomayor | ResearchGate</a>
+∆ <a href="https://www.researchgate.net/profile/Laura-Sotomayor" target="_blank" rel="noopener noreferrer">Laura N. Sotomayor | ResearchGate</a>
 <!--
 **LNSOTOM/LNSOTOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
