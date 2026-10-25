@@ -14,12 +14,12 @@
 ```
 ### Background
 🇦🇺 Based in Brisbane, Queensland, Australia 🦘 <br/> 
-🇦🇺 Studied in Hobart, Tasmania, Australia 🦘 <br/> 
+🇦🇺 Studied in Hobart, Tasmania, Australia🌲 <br/> 
 🇦🇺 From Australia🦘 | 🇪🇦 Spain 🐂 | 🇲🇽 Mexico 🦅 <br/> 
 💻 Research Platform Fellow (Geospatial Data Scientist)
 
 ### Contact:
-∆ <a href="mailto:laura.sotomayor@utas.edu.au">laura.sotomayor@utas.edu.au</a>
+∆ <a href="mailto:l.sotomayorramirez@uq.edu.au">l.sotomayorramirez@uq.edu.au</a>
 <!--
 **LNSOTOM/LNSOTOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
